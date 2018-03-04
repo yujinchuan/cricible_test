@@ -1,0 +1,5 @@
+1、先将atlassian-extras-2.5.jar拷贝出来并重命名为atlassian-extras-2.3.1-SNAPSHOT.jar，再将原atlassian-extras-2.5.jar文件重命名为atlassian-extras-2.5.jar.bak 
+2、打开破解工具【fisheye_keygen.jar】Linux下运行 fisheye_keygen.sh,win下运行 fisheye_keygen.bat 
+3、对atlassian-extras-2.3.1-SNAPSHOT.jar破解这里写图片描述 
+输入ServerID等信息，点击 .patch! 会弹窗让你找到[atlassian-extras-2.3.1-SNAPSHOT.jar]这个文件，选择刚刚重命名过的文件并确定，即可打补丁。 
+将破解后的【atlassian-extras-2.3.1-SNAPSHOT.jar】文件放入fisheye-3.7.0\fecru-3.7.0\lib目录下。
